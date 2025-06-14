@@ -1,4 +1,4 @@
-export default class Table extends Component {
+export default class Tabla extends Component {
     render() {
         return
     }
