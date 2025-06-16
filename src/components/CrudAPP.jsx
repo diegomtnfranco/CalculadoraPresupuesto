@@ -1,5 +1,4 @@
-import Form from "./Form"
-import TablaRegistro from "./TablaRegistro";
+import TablaRegistro from "../components/TablaRegistro";
 
 const CrudAPP = () => {
 

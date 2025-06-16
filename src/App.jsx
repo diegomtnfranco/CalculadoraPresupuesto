@@ -5,9 +5,11 @@ function App() {
 
   return (
     <>
-      <CrudAPP />
+      <div>
+        <CrudAPP />
+      </div>
     </>
   )
 }
 
-export default App
+export default App;
